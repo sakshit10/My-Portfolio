@@ -1,0 +1,30 @@
+.site-header{
+    background-color: #d464c0;
+    color: #060606;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    box-shadow:#550356 2px 2px 5px;
+}
+
+.github link{
+    color: #060606;
+}
+
+.site-header content{
+    margin: 10px
+}
+
+body{
+    margin: 0;
+}
